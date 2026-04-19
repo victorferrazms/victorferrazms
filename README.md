@@ -1,18 +1,32 @@
+# Olá, eu sou o Victor Ferraz 👋
 
-# Olá👋
-Sou Victor Ferraz, aprendo continuamente com o objetivo de tornar o mundo um lugar melhor, adquirindo e compartilhando conhecimento, servindo a sociedade de forma justa e sou entusiasta de tecnologia.
+Sou um entusiasta de tecnologia e estudante de **Análise e Desenvolvimento de Sistemas no IFTO**. Acredito no aprendizado contínuo como ferramenta para transformar o mundo, adquirindo e compartilhando conhecimento para servir à sociedade de forma justa e inovadora.
 
-## 🚀 Sobre mim 
+## 🚀 Sobre mim
 
+- 🎓 Graduando em Análise e Desenvolvimento de Sistemas pelo **IFTO - Campus Araguaína**.
+- 🧠 Focado em desenvolvimento de soluções inteligentes e automação de processos.
+- 🌱 Constantemente explorando novas tecnologias em Python e ecossistemas Web.
 
-Atualmente sou estudante do Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas no IFTO.
+## 🛠️ Tecnologias e Ferramentas
 
+Exponho aqui as principais ferramentas que utilizo para transformar ideias em código:
 
-## 🌐 Redes Sociais
-[![Instagram](https://camo.githubusercontent.com/3ad821fc2ec8e5389509e2262efe64bbab486ae3bfa9abf43bae910f1d3fc134/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f496e7374616772616d2d2532334534343035462e7376673f6c6f676f3d496e7374616772616d266c6f676f436f6c6f723d7768697465)](https://www.instagram.com/victorferraz.ms/)
-[![Linkedin](https://camo.githubusercontent.com/d94940866c98cb4fca5783c4e8ac95776d2f52df6bbf3d5ab9e30d76836f30ae/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d2532333030373742352e7376673f6c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465)](https://www.linkedin.com/in/victorferrazms/)
+- **Linguagens:** ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-O talento vence jogos, mas só o trabalho em equipe vence campeonatos.
--Michael Jordan
+## 🌐 Conecte-se comigo
 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/victorferraz.ms/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/victorferrazms/)
 
+---
+
+> "O talento vence jogos, mas só o trabalho em equipe vence campeonatos."  
+> — *Michael Jordan*
+
+---
+
+### 📊 Estatísticas do GitHub
+
+![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=victorferrazms&show_icons=true&theme=radical) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorferrazms&layout=compact&theme=radical)
