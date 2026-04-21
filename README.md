@@ -8,11 +8,11 @@ Sou um entusiasta de tecnologia e estudante de **Análise e Desenvolvimento de S
 - 🧠 Focado em desenvolvimento de soluções inteligentes e automação de processos.
 - 🌱 Constantemente explorando novas tecnologias em Python e ecossistemas Web.
 
-## 🛠️ Tecnologias e Ferramentas
+## 🛠️ Tecnologias
 
 Exponho aqui as principais ferramentas que utilizo para transformar ideias em código:
 
-- **Linguagens:** ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+- **Linguagens:** ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ## 🌐 Conecte-se comigo
 
@@ -29,4 +29,3 @@ Exponho aqui as principais ferramentas que utilizo para transformar ideias em c�
 ### 📊 Estatísticas do GitHub
 
 ![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=victorferrazms&show_icons=true&theme=radical) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorferrazms&layout=compact&theme=radical)
