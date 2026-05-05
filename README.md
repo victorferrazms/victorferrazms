@@ -25,7 +25,3 @@ Exponho aqui as principais ferramentas que utilizo para transformar ideias em c�
 > — *Michael Jordan*
 
 ---
-
-### 📊 Estatísticas do GitHub
-
-![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=victorferrazms&show_icons=true&theme=radical) 
